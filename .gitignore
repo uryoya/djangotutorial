@@ -22,3 +22,6 @@ venv.bak/
 # IDE
 .idea/
 
+# Database
+*.sqlite3
+
